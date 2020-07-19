@@ -1,2 +1,0 @@
-# Elecboi
-Learn to code
